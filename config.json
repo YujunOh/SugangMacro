@@ -1,0 +1,8 @@
+{
+  "check_interval_seconds": 0.5,
+  "alert": {
+    "sound": true,
+    "desktop_notification": true,
+    "sound_repeat": 3
+  }
+}
